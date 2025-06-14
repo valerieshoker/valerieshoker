@@ -12,8 +12,8 @@ right now, i’m exploring:
 - building toward something part nonprofit, part startup, part think tank
 
 ### things i’ve made:
-- [moku-noru](https://github.com/valerieshoker/moku-noru) a minimalist chrome extension for clarity and calm  
-- [valerie-site](https://github.com/valerieshoker/valerie-site) — a personal website: part bookshelf, part scrapbook, part experiment
+- [moku-noru](https://github.com/valerieshoker/moku-noru): a minimalist chrome extension for clarity and calm  
+- [valerie-site](https://github.com/valerieshoker/valerie-site): a personal website: part bookshelf, part scrapbook, part experiment
 
 📚 currently applying to law school, with a focus on healthcare, policy, and equity-driven systems  
 📍 based in the bay area  
