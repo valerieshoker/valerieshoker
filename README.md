@@ -15,7 +15,7 @@ right now, i’m exploring:
 - [moku-noru](https://github.com/valerieshoker/moku-noru): a minimalist chrome extension for clarity and calm  
 - [valerie-site](https://github.com/valerieshoker/valerie-site): a personal website: part bookshelf, part scrapbook, part experiment
 
-📚 currently applying to law school, with a focus on healthcare, policy, and equity-driven systems  
+📚 cal '24
 📍 based in the bay area  
 🗺️ [bit.ly/valerieshelf](https://bit.ly/valerieshelf) → where all the pieces live
 
