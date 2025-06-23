@@ -13,7 +13,7 @@ right now, i’m exploring:
 
 ### things i’ve made:
 - [moku-noru](https://github.com/valerieshoker/moku-noru): a minimalist chrome extension for clarity and calm  
-- [valerie-site](https://github.com/valerieshoker/valerie-site): a personal website: part bookshelf, part scrapbook, part experiment
+- [valerieshoker-site](https://github.com/valerieshoker/valerieshoker-site): a personal website: part bookshelf, part scrapbook, part experiment
 
 📚 cal '24
 📍 based in the bay area  
