@@ -12,7 +12,7 @@ right now, i’m exploring:
 - building toward something part nonprofit, part startup, part think tank
 
 ### things i’ve made:
-- [moku-noru](https://github.com/valerieshoker/moku-noru): a minimalist chrome extension for clarity and calm  
+- [moku noru](https://github.com/valerieshoker/mokunoru): a minimalist chrome extension for clarity and calm  
 - [valerieshoker-site](https://github.com/valerieshoker/valerieshoker-site): a personal website: part bookshelf, part scrapbook, part experiment
 
 📚 cal '24
