@@ -15,6 +15,13 @@ right now, i’m exploring:
 - [moku noru](https://github.com/valerieshoker/mokunoru): a minimalist chrome extension for clarity and calm  
 - [valerieshoker-site](https://github.com/valerieshoker/valerieshoker-site): a personal website: part bookshelf, part scrapbook, part experiment
 
+### currently building:
+- Health Access Explorer: an interactive dashboard visualizing health insurance gaps by county with demographic overlays + policy timelines
+
+_(not live yet but ask me about them!)_
+
+---
+
 📚 cal '24
 📍 based in the bay area  
 🗺️ [bit.ly/valerieshelf](https://bit.ly/valerieshelf) → where all the pieces live
