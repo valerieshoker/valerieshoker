@@ -1,28 +1,26 @@
-## hi, i'm valerie! ☕
+## Hi, I'm Valerie! ☕
 
-this space is a digital notebook where i test ideas that live between  
-healthcare, policy, and systems of care that don’t just sound good on paper.
+This space is a digital notebook where I test ideas that live between healthcare, policy, and systems of care that don’t just sound good on paper.
 
-i'm super new to coding, but some of these projects came from ideas  
-that wouldn’t leave me alone lol.
+I'm super new to coding, but some of these projects came from ideas that wouldn’t leave me alone lol.
 
-right now, i’m exploring:
-- visualizing health insurance gaps across counties  
-- tools that help people slow down + focus (because burnout isn’t sustainable policy)  
-- building toward something part nonprofit, part startup, part think tank
+Right now, I’m exploring:
+- Visualizing health insurance gaps across counties  
+- Tools that help people slow down + focus (because burnout isn’t sustainable policy)  
+- Building toward something part nonprofit, part startup, part think tank
 
-### things i’ve made:
-- [moku noru](https://github.com/valerieshoker/mokunoru): a minimalist chrome extension for clarity and calm  
+### Things I’ve Made:
+- [moku noru](https://github.com/valerieshoker/mokunoru): a minimalist Chrome extension for clarity and calm  
 - [valerieshoker-site](https://github.com/valerieshoker/valerieshoker-site): a personal website: part bookshelf, part scrapbook, part experiment
 
-### currently building:
-- Health Access Explorer: an interactive dashboard visualizing health insurance gaps by county with demographic overlays + policy timelines
+### Currently Building:
+- Health Access Explorer: an interactive dashboard visualizing health insurance gaps by county, with demographic overlays + policy timelines
 
-_(not live yet but ask me about them!)_
+_(Not live yet but ask me about them!)_
 
 ---
 
-📚 cal '24
-📍 based in the bay area  
+📚 Cal '24
+📍 Based in the Bay Area  
 🗺️ [bit.ly/valerieshelf](https://bit.ly/valerieshelf) → where all the pieces live
 
