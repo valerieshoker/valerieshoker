@@ -16,7 +16,7 @@ Right now, I’m exploring:
 ### Currently Building:
 - Health Access Explorer: an interactive dashboard visualizing health insurance gaps by county, with demographic overlays + policy timelines
 
-_(Not live yet but ask me about them!)_
+_(Not live yet but ask me about it!)_
 
 ---
 
