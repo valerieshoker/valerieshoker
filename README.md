@@ -2,25 +2,26 @@
 
 This space is a digital notebook where I test ideas that live between healthcare, policy, and systems of care that don’t just sound good on paper.
 
-I'm super new to coding, but some of these projects came from ideas that wouldn’t leave me alone lol.
+### 🛠️ Things I’ve Made
 
-Right now, I’m exploring:
-- Visualizing health insurance gaps across counties  
-- Tools that help people slow down + focus (because burnout isn’t sustainable policy)  
-- Building toward something part nonprofit, part startup, part think tank
+- **[Moku Noru (Chrome Extension)](https://github.com/valerieshoker/mokunoru)**  
+  A minimalist focus tool with Pomodoro timer, task bins (Today/Later), and a bouncing cat when you add a task.  
+  _Tech: Vanilla JS, CSS, HTML_
 
-### Things I’ve Made:
-- [moku noru](https://github.com/valerieshoker/mokunoru): a minimalist Chrome extension for clarity and calm  
-- [valerieshoker-site](https://github.com/valerieshoker/valerieshoker-site): a personal website: part bookshelf, part scrapbook, part experiment
+- **[valerieshoker-site](https://github.com/valerieshoker/valerieshoker-site)**  
+  A personal website: part bookshelf, part scrapbook, part experiment.  
+  _Deployed on Vercel_
 
-### Currently Building:
-- Health Access Explorer: an interactive dashboard visualizing health insurance gaps by county, with demographic overlays + policy timelines
+- **Health Access Explorer**  
+  An interactive dashboard that visualizes health insurance disparities by county, with demographic overlays and policy timelines.  
+  _Tech: React, Mapbox, Vite, TypeScript_  
+  _Not live yet—but ask me about it!_
 
-_(Not live yet but ask me about it!)_
+### 🧰 Tech Stack
+
+`JavaScript` • `TypeScript` • `CSS` • `HTML`  
+Frameworks & Tools: `React`, `Vite`, `Mapbox`, `GitHub`, `Vercel`, `Chrome Extension APIs`
 
 ---
 
-📚 Cal '24
-📍 Based in the Bay Area  
-🗺️ [bit.ly/valerieshelf](https://bit.ly/valerieshelf) → where all the pieces live
-
+📍 Bay Area • 📚 UC Berkeley '24 • 🗺️ [bit.ly/valerieshelf](https://bit.ly/valerieshelf) → where all the pieces live
