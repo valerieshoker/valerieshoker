@@ -2,7 +2,7 @@
 
 This space is a digital notebook where I test ideas that live between healthcare, policy, and systems of care that don’t just sound good on paper.
 
-### 🛠️ Things I’ve Made
+### Things I’ve Made
 
 - **[Moku Noru (Chrome Extension)](https://github.com/valerieshoker/mokunoru)**  
   A minimalist focus tool with Pomodoro timer, task bins (Today/Later), and a bouncing cat when you add a task.  
@@ -17,7 +17,7 @@ This space is a digital notebook where I test ideas that live between healthcare
   _Tech: React, Mapbox, Vite, TypeScript_  
   _Not live yet—but ask me about it!_
 
-### 🧰 Tech Stack
+### Tech Stack
 
 `JavaScript` • `TypeScript` • `CSS` • `HTML`  
 Frameworks & Tools: `React`, `Vite`, `Mapbox`, `GitHub`, `Vercel`, `Chrome Extension APIs`
