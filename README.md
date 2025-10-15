@@ -24,4 +24,4 @@ Frameworks & Tools: `React`, `Vite`, `Mapbox`, `GitHub`, `Vercel`, `Chrome Exten
 
 ---
 
-📍 Bay Area • 📚 UC Berkeley '24 • 🗺️ [bit.ly/valerieshelf](https://bit.ly/valerieshelf) → where all the pieces live
+[bit.ly/valerieshelf](https://bit.ly/valerieshelf) → where all the pieces live
