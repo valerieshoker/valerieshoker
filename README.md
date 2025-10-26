@@ -1,4 +1,4 @@
-## Hi, I'm Valerie! ☕ 
+## Hi, I'm Valerie! 
 
 This space is a digital notebook where I test ideas that live between healthcare, policy, and systems of care that don’t just sound good on paper.
 
